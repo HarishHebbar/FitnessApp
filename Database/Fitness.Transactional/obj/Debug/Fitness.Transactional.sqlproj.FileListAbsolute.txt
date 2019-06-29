@@ -1,0 +1,6 @@
+C:\Rakshith\FitnessApp\Database\Fitness.Transactional\bin\Debug\Fitness.Transactional.dacpac
+C:\Rakshith\FitnessApp\Database\Fitness.Transactional\bin\Debug\Fitness.Transactional.dll
+C:\Rakshith\FitnessApp\Database\Fitness.Transactional\bin\Debug\Fitness.Transactional.pdb
+C:\Rakshith\FitnessApp\Database\Fitness.Transactional\obj\Debug\Fitness.Transactional.sqlprojAssemblyReference.cache
+C:\Rakshith\FitnessApp\Database\Fitness.Transactional\obj\Debug\Fitness.Transactional.dll
+C:\Rakshith\FitnessApp\Database\Fitness.Transactional\obj\Debug\Fitness.Transactional.pdb
